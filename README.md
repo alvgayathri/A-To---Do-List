@@ -10,9 +10,7 @@ A simple command-line To-Do List application that allows users to add, remove, v
 - Save tasks to a file
 - Load tasks from a file
 
-## How to Run
-1. Run `todo_list.py`
-2. Follow the on-screen menu to manage tasks.
+
 
 ## Requirements
 - No external libraries required.
